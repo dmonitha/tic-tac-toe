@@ -1,2 +1,2 @@
 # tic-tac-toe
-First game in Python
+My first game in Python! Had lots of fun doing it.
